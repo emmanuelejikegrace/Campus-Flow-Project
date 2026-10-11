@@ -1,0 +1,1 @@
+"""CampusFlow — a CLI ticket manager for Learn2Earn campus staff."""
