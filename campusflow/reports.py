@@ -25,3 +25,5 @@ def work_queue(tickets):
     rank = {p: i for i, p in enumerate(PRIORITY_ORDER)}
     active = [t for t in tickets if t["status"] != "resolved"]
     return sorted(active, key=lambda t: (rank[t["priority"]], int(t["id"][1:])))
+
+     
