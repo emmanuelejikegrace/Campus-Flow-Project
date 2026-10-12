@@ -18,3 +18,6 @@ a Python command-line ticket manager that records problems, prioritizes work, as
 
 ## Data
 Tickets persist to `data/tickets.json`. That file is gitignored.
+
+# sha
+fcbc843e82a96cc98e17df651695d13a9bd947ae
